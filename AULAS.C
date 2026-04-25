@@ -10,7 +10,8 @@
     float area1;
     float pib1;
     int pontosturisticos1;
-
+    int loot1;
+    
     // ---- Informações-da-carta 1 ----
    
         printf("Carta numero 1: \n");
